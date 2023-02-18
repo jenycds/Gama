@@ -1,0 +1,591 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.principal {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    left:0px;
+    margin: 0;
+    top: 0px;
+    background: #2E948A;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+    }
+    
+    main {  
+        background: #C4C4C4;
+    }
+    
+    div{
+        margin-left: 30px;
+    }
+    
+    nav{
+    position: absolute;
+    width: auto;
+    height: 23px;
+    left: 959px;
+    top: 47px;
+    margin-left: 50px;
+    }
+    
+    @font-face {
+        font-family: Ubuntu;
+        src: url("Ubuntu-Regular.ttf");
+    }
+    
+    nav li {
+    display: inline;
+    margin-inline: 5px;
+    }
+    
+    nav a {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FDFDFD;
+    text-transform: uppercase;
+    text-decoration: none;
+    }
+    
+    nav a:hover {
+        color: #c78c19;
+        text-decoration: underline;
+    }
+li a:hover {
+    text-align: underline;
+}
+
+@font-face {
+    font-family: Ubuntu;
+    src: url("ubuntu-Bold.ttf");
+}
+
+h2 {
+    position: absolute;
+width: 400px;
+height: 108px;
+left: 240px;
+top: 239px;
+
+font-family: 'Ubuntu';
+font-style:bold;
+font-weight: 700;
+font-size: 47px;
+line-height: 54px;
+
+color: #009688;
+}
+
+.ilustra-blog {
+position: absolute;
+width: 405px;
+height: 405px;
+left: 700px;
+top: 155px;
+}
+
+@font-face {
+    font-family: Ubuntu;
+    src: url("Ubuntu-Light.ttf");
+}
+
+.primeiro-paragrafo {
+    position: absolute;
+width: 461px;
+height: 110px;
+left: 239px;
+top: 387px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+#fundo {
+    background: #CCCCCC;
+	
+}
+
+.retangulo {
+    position: absolute;
+    width: 518px;
+    height: 259px;
+    left: 171px;
+    top: 768px;
+    box-sizing: border-box;
+    background: #C4C4C4;
+}
+
+.retangulo div:active {
+    color: #c78c19;
+}
+
+h3 {
+    position: absolute;
+width: 455px;
+height: 34px;
+left: 10px;
+top: 280px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 34px;
+display: flex;
+align-items: center;
+
+color: #FF4081;
+
+}
+
+#segundo-paragrafo {
+    position: absolute;
+    width: 516px;
+    height: 80px;
+    left: 10px;
+    top: 330px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    
+}
+
+.retangulo-dois {
+position: absolute;
+width: 518px;
+height: 259px;
+left: 809px;
+top: 768px;
+
+background: #C4C4C4;
+}
+
+h4 {
+position: absolute;
+width: 455px;
+height: 10px;
+left: 17px;
+top: 280px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 34px;
+display: flex;
+align-items: center;
+
+color: #FF4081;
+}
+
+#terceiro-paragrafo {
+position: absolute;
+width: 516px;
+height: 80px;
+left: 10px;
+top: 330px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.retangulo-tres {
+position: absolute;
+width: 518px;
+height: 259px;
+left: 171px;
+top: 1279px;
+
+background: #C4C4C4;
+}
+
+h5 {
+    position: absolute;
+width: 455px;
+height: 34px;
+left: 10px;
+top: 270px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 34px;
+display: flex;
+align-items: center;
+
+color: #FF4081;
+}
+
+#quarto-paragrafo {
+position: absolute;
+width: 516px;
+height: 80px;
+left: 11px;
+top: 320px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+
+.retangulo-quatro {
+position: absolute;
+width: 518px;
+height: 259px;
+left: 809px;
+top: 1279px;
+
+background: #C4C4C4;
+}
+
+#titulo{
+position: absolute;
+width: 455px;
+height: 34px;
+left: 9px;
+top: 270px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 34px;
+display: flex;
+align-items: center;
+
+color: #FF4081;
+}
+
+#quinto-paragrafo {
+position: absolute;
+width: 516px;
+height: 80px;
+left: 9px;
+top: 320px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.retangulo-cinco {
+position: absolute;
+width: 518px;
+height: 259px;
+left: 171px;
+top: 1790px;
+
+background: #C4C4C4;
+}
+
+#titulo-dois{
+position: absolute;
+width: 455px;
+height: 34px;
+left: 10px;
+top: 270px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 34px;
+display: flex;
+align-items: center;
+
+color: #FF4081;
+}
+
+#sexto-paragrafo {
+position: absolute;
+width: 516px;
+height: 80px;
+left: 10px;
+top: 320px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+}
+.retangulo-seis{
+position: absolute;
+width: 518px;
+height: 259px;
+left: 809px;
+top: 1790px;
+
+background: #C4C4C4;
+}
+
+#titulo-tres {
+position: absolute;
+width: 455px;
+height: 34px;
+left: 11px;
+top: 270px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 34px;
+display: flex;
+align-items: center;
+
+color: #FF4081;
+
+}
+
+#setimo-paragrafo {
+position: absolute;
+width: 516px;
+height: 80px;
+left: 10px;
+top: 320px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+    
+footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 2700px;
+    padding: 40px;
+    background: #419488;
+}
+
+
+#lista {
+    position: absolute;
+    right: 250px;
+    top: 25.6%;
+    bottom: 34.3%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+#link {
+    position: relative;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 10px 50px;
+    box-sizing: border-box;
+    border: 2px solid #ffffff;
+    border-radius: 62px;
+    color: #FFFFFF;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    bottom: 52%;
+    cursor: pointer;
+}
+
+    
+#link-dois {
+    top: 30px;
+    position: relative;
+    right: 100px;
+    display: inline-block;
+    left: 0px;
+    padding: 9px 30px;
+    box-sizing: border-box;
+    border: 2px solid #ffffff;
+    border-radius: 62px;
+    color: #FFFFFF;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    cursor: pointer;
+    text-transform: uppercase;
+    
+}
+
+
+@media only screen and (max-device-width: 800px) {
+
+  .principal {
+   width: 1550px;
+   position: relative;
+  }
+
+  nav {
+    left: 500px;
+  }
+
+#lista{
+    right: 50px;
+}
+
+h2 {
+    left: 180px;
+}
+.primeiro-paragrafo {
+    left: 180px;
+}
+.ilustra-blog {
+    left: 600px;
+}
+
+.retangulo {
+    width: 440px;
+    left: 0;
+}
+.retangulo-dois {
+    width: 440px;
+    margin: 0;
+    left: 510px
+}
+
+.retangulo-tres {
+    width: 440px;
+    left: 0;
+}
+.retangulo-quatro {
+    width: 440px;
+    margin: 0;
+    left: 510px
+}
+
+.retangulo-cinco {
+    width: 440px;
+    left: 0;
+
+}
+
+.retangulo-seis {
+    width: 440px;
+    margin: 0;
+    left: 510px
+}
+
+h3 {
+position: relative;
+font-size: 29px;
+}
+
+h4 {
+position: relative;
+font-size: 29px;
+left: 0;
+
+}
+h5 {
+position: relative;
+font-size: 29px;
+}
+#titulo {
+position: relative;
+font-size: 29px;
+left: 0;
+}
+#titulo-dois {
+position: relative;
+font-size: 29px;
+
+}
+
+#titulo-tres {
+position: relative;
+font-size: 29px;
+left: 0;
+
+}
+#segundo-paragrafo {
+  width: 400px;
+}
+
+#terceiro-paragrafo { 
+    width: 400px;
+}
+#quarto-paragrafo {
+    width:400px ;
+}
+#quinto-paragrafo {
+    width: 400px;
+}
+#sexto-paragrafo {
+    width: 400px;
+}
+#setimo-paragrafo {
+    width: 400px;
+}
+
+footer {
+    width: 1550px;
+}
+}
+
+
+
+
+
+
+

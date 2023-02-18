@@ -1,0 +1,491 @@
+.principal {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    left:0px;
+    top: 0px;
+    margin: 0;
+    background: #2E948A;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+    }
+    
+    main {  
+        background: ;
+    }
+    
+    div{
+        margin-left: 30px;
+    }
+    
+    nav{
+    position: absolute;
+    width: auto;
+    height: 23px;
+    left: 959px;
+    top: 47px;
+    margin-left: 50px;
+    }
+    
+    @font-face {
+        font-family: Ubuntu;
+        src: url("Ubuntu-Regular.ttf");
+    }
+    
+    nav li {
+    display: inline;
+    margin-inline: 5px;
+    }
+    
+    nav a {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FDFDFD;
+    text-transform: uppercase;
+    text-decoration: none;
+    }
+    
+    nav a:hover {
+        color: #c78c19;
+        text-decoration: underline;
+    }
+    
+    .ilustra-blog {
+        position: absolute;
+        width: 405px;
+        height: 405px;
+        left:  825px;
+        top: 165px;
+    }
+
+    h2 {
+position: absolute;
+width: 758px;
+height: 46px;
+left: 310px;
+top: 200px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 57px;
+display: flex;
+align-items: center;
+
+color: #FF4081;
+
+    }
+.retangulo-um {
+    position: absolute;
+    width: 1000px;
+    height: 500px;
+    left: 200px;
+    top: 399px;
+    background: #c4c4c4;
+
+}
+
+
+ 
+
+#data {
+position: relative;
+width: 200px;
+height: 21px;
+left: 620px;
+top: 286px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+display: inline;
+align-items: center;
+color: #9D9D9D;
+}
+
+.retangulo {
+position: absolute;
+width: 1032px;
+height: 465px;
+left: 204px;
+top: 381px;
+
+background: #C4C4C4;
+}
+
+#paragrafo-um {
+    position: absolute;
+width: 1032px;
+height: 1061px;
+left: 231px;
+top: 900px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+font-feature-settings: 'kern' off;
+
+color: #000000;
+}
+
+#paragrafo-dois {
+    position: absolute;
+width: 1032px;
+height: 1061px;
+left: 231px;
+top: 1000px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+font-feature-settings: 'kern' off;
+
+color: #000000;
+}
+
+#paragrafo-tres {
+position: absolute;
+width: 1032px;
+height: 1061px;
+left: 231px;
+top: 1100px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+font-feature-settings: 'kern' off;
+
+color: #000000;
+}
+
+
+h3 {
+    position: absolute;
+    width: 1032px;
+    height: 1061px;
+    left: 230px;
+    top: 1215px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 21px;
+    font-feature-settings: normal;
+    color: #419488;
+}
+
+#paragrafo-quatro {
+position: absolute;
+width: 1032px;
+height: 1061px;
+left: 231px;
+top: 1255px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+font-feature-settings: 'kern' off;
+
+color: #000000;
+
+}
+
+#paragrafo-cinco {
+position: absolute;
+width: 1032px;
+height: 1061px;
+left: 231px;
+top: 1340px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+font-feature-settings: 'kern' off;
+
+color: #000000
+
+}
+
+h4 {
+    position: absolute;
+    width: 1032px;
+    height: 1061px;
+    left: 230px;
+    top: 1500px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 21px;
+    font-feature-settings: normal;
+    color: #419488;
+}
+
+#paragrafo-seis {
+position: absolute;
+width: 1032px;
+height: 1061px;
+left: 231px;
+top: 1555px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+font-feature-settings: 'kern' off;
+
+color: #000000
+
+}
+
+.retangulo {
+position: absolute;
+width: 1440px;
+height: 899px;
+left: 0px;
+top: 1899px;
+
+background: #F7F7F7;
+}
+
+h5 {
+position: relative;
+width: 528px;
+height: 57px;
+left: 456px;
+top: 0px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 57px;
+display: flex;
+align-items: center;
+
+color: #FF4081;
+}
+
+
+.imagem-tres {
+position: absolute;
+width: 288px;
+padding: 50px;
+top: 150px;
+}
+
+
+#titulo-um {
+    position: absolute;
+    width: 344px;
+    height: 35.71px;
+    left: 18px;
+    top: 450px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #FF4081;
+
+}
+
+#paragrafo-oito {
+position: absolute;
+    width: 293px;
+    height: 73.89px;
+    left: 31px;
+    top: 540px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.imagem-dois {
+    position: absolute;
+    width: 288px;
+    left: 500px;
+    top: 210px;
+}
+
+#titulo-dois{
+    position: absolute;
+    width: 344px;
+    height: 35.71px;
+    left: 450px;
+    top: 450px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #FF4081;
+
+}
+
+#paragrafo-nove {
+    position: absolute;
+    width: 293px;
+    height: 73.89px;
+    left: 480px;
+    top: 540px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+
+}
+
+
+.imagem-quatro {
+    position: absolute;
+    width: 220px;
+    left: 900px;
+    top: 210px;
+}
+
+#titulo-tres{
+    position: absolute;
+    width: 344px;
+    height: 35.71px;
+    left: 850px;
+    top: 450px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #FF4081;
+}
+
+#paragrafo-dez {
+    position: absolute;
+    width: 293px;
+    height: 73.89px;
+    left: 880px;
+    top: 540px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+
+footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 2600px;
+    padding: 40px;
+    background: #419488;
+    }
+    
+    #lista {
+    position: absolute;
+    right: 250px;
+    top: 25.6%;
+    bottom: 34.3%;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    cursor: pointer;
+    
+    color: #FFFFFF
+    }
+    
+    .retangulo-sete {
+    
+    }
+    
+    #link {
+        position: relative;
+        width: 30%;
+        vertical-align: top;
+        margin: 0 1.5%;
+        padding: 10px 50px;
+        box-sizing: border-box;
+        border: 2px solid #ffffff;
+        border-radius: 62px;
+        color: #FFFFFF;
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+        text-align: center;
+        bottom: 52%;
+        cursor: pointer;
+    }
+    
+        
+    #link-dois {
+        top: 30px;
+        position: relative;
+        right: 100px;
+        display: inline-block;
+        left: 0px;
+        padding: 9px 30px;
+        box-sizing: border-box;
+        border: 2px solid #ffffff;
+        border-radius: 62px;
+        color: #FFFFFF;
+        font-family: 'Ubuntu';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+        cursor: pointer;
+        text-transform: uppercase;
+        
+    }
+
+    @media only screen and (max-device-width: 800px) {
+
+        .principal {
+         width: 1700px;
+         position: absolute;
+        }
+      
+        nav {
+          left: 500px;
+        }
+      
+      #lista{
+          right: 50px;
+      }
+
+      footer {
+        width: 1550px;
+      }
+    }
+
